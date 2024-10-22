@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Lucky coffee</title>
-    <link rel="icon" href="咖啡.png" type="coffe /png">
+    <link rel="icon" href="咖啡.png" type="咖啡/png">
 </head>
 <body>
     <div>
@@ -17,21 +17,21 @@
         <h1>Latte Art</h1>
         <p>Latte Art is an art form that draws various patterns and designs on the surface of coffee by steaming milk. It is not only a technology, but also an expression of coffee culture. Common patterns include hearts, leaves, tulips, and swans. The latte art process requires the barista's precise hand control and mastery of the ratio of milk to coffee liquid.</p>
         <img src="latte art.jpg" alt="Latte Art">
-        <a href="latte-art.html">Learn more about Latte Art</a>
+        <a href="latte-art.html">Latte Art</a>
     </div>
 
     <div id="signature-coffee">
         <h2>Signature Coffee</h2>
         <p>Signature Coffee is a coffee shop's unique, specially prepared and created specialty coffee drink. Each coffee shop develops a unique recipe based on its own style and philosophy, combining coffee with various flavors to create a distinctive taste experience. These drinks are often the brainchild of baristas and have become iconic products of coffee shops.</p>
         <img src="Signature Coffee.jpg" alt="Signature Coffee">
-        <a href="signature-coffee.html">Learn more about Signature Coffee</a>
+        <a href="signature-coffee.html">Signature Coffee</a>
     </div>
 
     <div id="bean-roasting">
         <h3>Bean Roasting</h3>
         <p>Bean Roasting refers to the process of roasting raw coffee beans to release their aroma and flavor. Roasting is one of the most critical steps in coffee making, and by controlling the temperature and timing, you can affect the acidity, sweetness, bitterness, and flavor levels of the coffee. As a result, each batch of roasting is unique, reflecting the characteristics of the country of origin and the skill of the roaster.</p>
         <img src="Associated-Services-Coffee-Beans-Chart-fin.webp" alt="Bean Roasting">
-        <a href="bean-roasting.html">Learn more about Bean Roasting</a>
+        <a href="bean-roasting.html">Bean Roasting</a>
     </div>
     
     <div>
