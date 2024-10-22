@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MZT coffee</title>
+    <link rel="icon" type="咖啡.PNG" href="coffee">
+</head>
+<body>
+ 	<h1>MZT coffee</h1>
+
+    <div id="latte art">
+        <h1></h1>
+
+    </div>
+
+</body>
+</html>
